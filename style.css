@@ -50,6 +50,14 @@ html,body {
 	align-items:center;
 	align-content:center;
 	justify-content: space-around;
+	flex-direction: column;
+	flex: 1 0 auto;
+}
+.top_text{
+	display:flex;
+	align-items:center;
+	align-content:center;
+	justify-content: space-around;
 	flex-direction: row;
 	flex: 1 0 auto;
 }
