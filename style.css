@@ -60,6 +60,7 @@ html,body {
 	justify-content: space-around;
 	flex-direction: row;
 	flex: 1 0 auto;
+	margin: 50px;
 }
 .main{
 	display: flex;
@@ -73,6 +74,10 @@ html,body {
 	font-size: 20px;
 	/*background-color: #fff;*/
 	align-self: center;
+}
+.wide_text{
+	width:90%;
+	margin: 50px;
 }
 .miku {
 	display: flex;
